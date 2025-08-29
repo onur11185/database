@@ -1,0 +1,2 @@
+DATABASE = "onur.db"
+TOKEN = ""
